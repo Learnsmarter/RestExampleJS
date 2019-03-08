@@ -22,7 +22,7 @@ Confirmed support (latest versions):
 - The results (returned in a JSON format but already parsed by this point), are then added to new DOM elements and added to the page.
 
 # Other languages
-- This is a JavaScript example. All languages are able to do the same. Should you wish to use a server-side language (and we recommend this), then there will be modules to allow you to make callouts and process responses.
+This is a JavaScript example. All languages are able to do the same. Should you wish to use a server-side language (and we recommend this), then there will be modules to allow you to make callouts and process responses.
 
 # Configure
 This example is connected to an example org. Please connect to an org of your choosing and ensure the profile permissions and widgets are configured accordingly.
