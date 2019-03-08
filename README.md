@@ -3,9 +3,12 @@
 - Learnsmarter Engage Installed
 - A REST API widget must be configured
 
+# Compatibility
+This example does not consider legacy browser compatibility. Your browser must have basic ES6 support (all modern browsers will).
+
 # How to use
 - Either download and unzip or pull from this repo.
-- Open index.html in your browser (browser compatibility not considered in this example - please run in a modern browser that supports ES6)
+- Open index.html in your browser
 
 # Configure
 This example is connected to an example org. Please connect to an org of your choosing and ensure the profile permissions and widgets are configured accordingly.
