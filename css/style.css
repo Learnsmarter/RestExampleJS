@@ -1,0 +1,30 @@
+body {
+	font-family:Arial;
+}
+
+table {
+	min-width:50%;
+}
+
+table thead td {
+	font-weight:bold;
+	background:#efefef;
+}
+
+table td {
+	padding:5px;
+	border-bottom:1px solid #ccc;
+}
+
+a {
+	color:#ca3535;
+}
+
+a:hover {
+	color:#7b1212;
+}
+
+.back-link {
+	display:block;
+	margin-bottom:25px;
+}
