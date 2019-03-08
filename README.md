@@ -18,4 +18,4 @@ Confirmed support (latest versions):
 # Configure
 This example is connected to an example org. Please connect to an org of your choosing and ensure the profile permissions and widgets are configured accordingly.
 
-You must change the endpoint URL to the endpoint described in your REST API widget.
+You must change the endpoint URL to the endpoint in `js/controller.js` described in your REST API widget.
