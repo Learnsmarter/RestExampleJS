@@ -4,7 +4,12 @@
 - A REST API widget must be configured
 
 # Compatibility
-This example does not consider legacy browser compatibility. Your browser must have basic ES6 support (all modern browsers will).
+This example does not consider legacy browser compatibility. Your browser must have basic ES6 support.
+
+Confirmed support (latest versions):
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
 
 # How to use
 - Either download and unzip or pull from this repo.
